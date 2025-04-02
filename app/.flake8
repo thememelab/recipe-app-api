@@ -6,4 +6,4 @@ exclude =
     manage.py,
     settings.py
 
-max-line-length = 88  # Optional, default is 79. You can adjust as needed.
+max-line-length = 88 
